@@ -225,7 +225,6 @@ public class xxx{
 还可以提供一个概述性注释:overview.html
 
 注释的提取
-p163
 
 类设计技巧
 1.一定要保证数据私有
